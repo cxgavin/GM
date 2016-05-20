@@ -102,6 +102,43 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Gantt\gantt.css" />
+    <Content Include="Gantt\gantt.html" />
+    <Content Include="Gantt\ganttDrawer.js" />
+    <Content Include="Gantt\ganttDrawerSVG.js" />
+    <Content Include="Gantt\ganttGridEditor.js" />
+    <Content Include="Gantt\ganttMaster.js" />
+    <Content Include="Gantt\ganttPrint.css" />
+    <Content Include="Gantt\ganttTask.js" />
+    <Content Include="Gantt\ganttUtilities.js" />
+    <Content Include="Gantt\libs\date.js" />
+    <Content Include="Gantt\libs\dateField\images\next.png" />
+    <Content Include="Gantt\libs\dateField\images\prev.png" />
+    <Content Include="Gantt\libs\dateField\jquery.dateField.css" />
+    <Content Include="Gantt\libs\dateField\jquery.dateField.js" />
+    <Content Include="Gantt\libs\i18nJs.js" />
+    <Content Include="Gantt\libs\jquery.1.8.js" />
+    <Content Include="Gantt\libs\jquery.livequery.min.js" />
+    <Content Include="Gantt\libs\jquery.svg.css" />
+    <Content Include="Gantt\libs\jquery.svg.js" />
+    <Content Include="Gantt\libs\jquery.svg.min.js" />
+    <Content Include="Gantt\libs\jquery.svgdom.1.8.js" />
+    <Content Include="Gantt\libs\jquery.svgdom.js" />
+    <Content Include="Gantt\libs\jquery.svgdom.pack.js" />
+    <Content Include="Gantt\libs\jquery.timers.js" />
+    <Content Include="Gantt\libs\JST\jquery.JST.js" />
+    <Content Include="Gantt\libs\platform.js" />
+    <Content Include="Gantt\platform.css" />
+    <Content Include="Gantt\res\alert.gif" />
+    <Content Include="Gantt\res\black_70.png" />
+    <Content Include="Gantt\res\closeBig.png" />
+    <Content Include="Gantt\res\hasExternalDeps.png" />
+    <Content Include="Gantt\res\linkArrow.png" />
+    <Content Include="Gantt\res\milestone.png" />
+    <Content Include="Gantt\res\toggle-expand.png" />
+    <Content Include="Gantt\res\toggle_collapse.png" />
+    <Content Include="Gantt\res\twBanner.jpg" />
+    <Content Include="Gantt\teamworkFont.css" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -116,6 +153,12 @@
   <ItemGroup>
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
+    <Content Include="Gantt\README.md" />
+    <Content Include="Gantt\teamwork-regular-webfont.eot" />
+    <Content Include="Gantt\teamwork-regular-webfont.otf" />
+    <Content Include="Gantt\teamwork-regular-webfont.svg" />
+    <Content Include="Gantt\teamwork-regular-webfont.ttf" />
+    <Content Include="Gantt\teamwork-regular-webfont.woff" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
